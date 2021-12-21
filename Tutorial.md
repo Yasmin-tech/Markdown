@@ -100,7 +100,7 @@ _texto_
 `yarn install`
 
 ---
-### **Code Block **
+### ** Code Block **
 #### Para escrever um bloco de código use três cases e logo dos três primeiros cases, coloque a linguagem em que se encontra o código.
  ```javascript
  if(n >1){
