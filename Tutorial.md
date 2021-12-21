@@ -1,3 +1,4 @@
-  #Tutorial Markdown
-  ---
-  * Arquivo para colocar em prática os aprendizados em Markdown 
+# Tutorial Markdown
+
+## Neste presente arquivo será apresentado um tutorial sobre a linguagem de marcação Markdown! 
+
