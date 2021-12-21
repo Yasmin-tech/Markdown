@@ -93,14 +93,14 @@ _texto_
 #### Ex:
 > citação
 ---
-### **Inline Code **
+### **Código** **em** **linha**
 #### Para colocar uma linha de um código, digite o mesmo dentro de uma crase.
 #### Código: `Yarn install´
 #### Ex:
 `yarn install`
 
 ---
-### ** Code Block **
+### **Código** **em** **bloco**
 #### Para escrever um bloco de código use três cases e logo dos três primeiros cases, coloque a linguagem em que se encontra o código.
  ```javascript
  if(n >1){
