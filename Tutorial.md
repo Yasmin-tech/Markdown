@@ -93,23 +93,27 @@ _texto_
 #### Ex:
 > citação
 ---
-### **Inline Code - Código em linha**
+### **Inline Code **
 #### Para colocar uma linha de um código, digite o mesmo dentro de uma crase.
 #### Código: `Yarn install´
 #### Ex:
 `yarn install`
 
 ---
-### **Code Block - Código em bloco**
+### **Code Block **
 #### Para escrever um bloco de código use três cases e logo dos três primeiros cases, coloque a linguagem em que se encontra o código.
-####
-#### Ex:
- ```Bash
- yarn install
+ ```javascript
+ if(n >1){
+     document.write("Positivo");
+ }
+ else{
+     document.write("Negativo");
+ }
 ```
+
 ---
 ### **Tabelas**
-#### Para a criação de tabelas, use o pipe (|), para dar forma a sua tabela e use |-_ para separar o cabeçalho e o corpo da tabela.
+#### Para a criação de tabelas, use o pipe (|), para dar forma a sua tabela e use |-| para separar o cabeçalho e o corpo da tabela.
 #### Código: 
 ```Markdown
  | Nome | Idade |
@@ -123,7 +127,7 @@ _texto_
 | Yasmin | 18 |
 ---
 ### **Inserir  link**
-#### Para inserir um link você terá que atribuir a uma palavra ou frase o link para onde será direcionado ao ser clicado, colocando a palavra ou frase dentro de conchees e em seguida colocar entre parênteses o link e ao lado pode ser colocado um título para aquele link entre aspas.
+#### Para inserir um link você terá que atribuir a uma palavra ou frase o link para onde será direcionado ao ser clicado, colocando-a dentro de conchetes e em seguida colocar entre parênteses o link e se quiser, pode ser colocado um título para aquele link entre aspas.
 #### Código:
 ```markdown
 [Clique aqui oara acessar o link](https://www.google.com/ "Google")
@@ -133,13 +137,13 @@ _texto_
 
 ---
 ### **Inserindo imagens**
-#### O código para se inserir imagem é bem parecido com o do inserir link, a única diferença é o ponto de exclamação (!) no início. Também é precio colocar o endereço da imagem entre parênteses.
+#### O código para se inserir imagem é bem parecido com o do inserir link, a única diferença é o ponto de exclamação (!) no início. Também é precico colocar o endereço da imagem entre parênteses.
 #### Código:
 ```markdown
-![Imagem qualquer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ116J-Ewb6FmilXc5zyLYP5oIhptdEKW8blCese_UKGFt1AvX1m_04xdmMbeGUW-NDl-I&usqp=CAU)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ116J-Ewb6FmilXc5zyLYP5oIhptdEKW8blCese_UKGFt1AvX1m_04xdmMbeGUW-NDl-I&usqp=CAU)
 ```
 #### Resultado:
-![Imagem qualquer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ116J-Ewb6FmilXc5zyLYP5oIhptdEKW8blCese_UKGFt1AvX1m_04xdmMbeGUW-NDl-I&usqp=CAU)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ116J-Ewb6FmilXc5zyLYP5oIhptdEKW8blCese_UKGFt1AvX1m_04xdmMbeGUW-NDl-I&usqp=CAU)
 
 
 
