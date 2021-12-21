@@ -47,9 +47,9 @@ _texto_
 #### Para se criar uma lista ordernada, digite um número e logo em seguida um ponto(.), que ao decorrer de seu arquivo, a lista será criada automaticamente. 
 #### Código: 
 ```markdown
-1. 
-1.
-1.
+ 1. 
+ 1.
+ 1.
 ```
 #### Resultado: 
 1.
@@ -121,6 +121,32 @@ _texto_
 | Nome | Idade |
 | - | - |
 | Yasmin | 18 |
+---
+### **Inserir  link**
+#### Para inserir um link você terá que atribuir a uma palavra ou frase o link para onde será direcionado ao ser clicado, colocando a palavra ou frase dentro de conchees e em seguida colocar entre parênteses o link e ao lado pode ser colocado um título para aquele link entre aspas.
+#### Código:
+```markdown
+[Clique aqui oara acessar o link](https://www.google.com/ "Google")
+```
+### Resultado:
+[ Clique aqui para acessar o link](https://www.google.com/ "Google")
+
+---
+### **Inserindo imagens**
+#### O código para se inserir imagem é bem parecido com o do inserir link, a única diferença é o ponto de exclamação (!) no início. Também é precio colocar o endereço da imagem entre parênteses.
+#### Código:
+```markdown
+![Imagem qualquer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ116J-Ewb6FmilXc5zyLYP5oIhptdEKW8blCese_UKGFt1AvX1m_04xdmMbeGUW-NDl-I&usqp=CAU)
+```
+#### Resultado:
+![Imagem qualquer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ116J-Ewb6FmilXc5zyLYP5oIhptdEKW8blCese_UKGFt1AvX1m_04xdmMbeGUW-NDl-I&usqp=CAU)
+
+
+
+
+
+
+
 
 
 
