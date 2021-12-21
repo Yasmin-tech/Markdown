@@ -32,7 +32,7 @@
 **texto**
 ```
 #### Resultado:
-#### **texto**
+ **texto**
 ---
 ### **Italic - Itálico**
 #### Para se colocar em itálico, coloque a sentença entre inderline (_) sem espaço nenhum.  
