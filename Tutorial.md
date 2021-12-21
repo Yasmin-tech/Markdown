@@ -1,6 +1,6 @@
 # Tutorial Markdown
 ### **Tamanho da fonte**
-#### Para você escrever em tamanhos de fontes diferentes, será necessário o uso da hashtag (#) no começo da sentença, como o uso do h1 no html. Quanto mais hastags colocadas no inicio da setença, menor a fonte. No HTML o h1 é usado para cabeçalhos e títulos, em Markdown o uso de uma única hashtag tem a mesma função. 
+#### Para você escrever em tamanhos de fontes diferentes, será necessário o uso da hashtag (#) no começo da sentença, como o uso do h1 no html. Quanto mais hastags colocadas no inicio da setença, menor a fonte. No HTML o h1 é usado para cabeçalhos e títulos, em Markdown o uso de uma única hashtag ou até duas hastags tem a mesma função. 
 #### Código:
 ```Markdown
 # Titulo
