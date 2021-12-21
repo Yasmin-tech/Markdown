@@ -28,7 +28,7 @@
 ### **Strong - Negrito**
 #### Para colocar em negrito, coloque a sentença entre asterísticos duplos (**) sem nenhum espaço. 
 #### Código: 
-```Markdown
+```markdown
 **texto**
 ```
 #### Resultado:
@@ -46,7 +46,7 @@ _texto_
 ### **Lista Ordernada**
 #### Para se criar uma lista ordernada, digite um número e logo em seguida um ponto(.), que ao decorrer de seu arquivo, a lista será criada automaticamente. 
 #### Código: 
-```Markdown
+```markdown
 1. 
 1.
 1.
