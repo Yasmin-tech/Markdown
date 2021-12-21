@@ -23,7 +23,7 @@
 *texto*
 ```
 #### Resultado:
-*texto*
+#### *texto*
 ---
 ### **Strong - Negrito**
 #### Para colocar em negrito, coloque a sentença entre asterísticos duplos (**) sem nenhum espaço. 
@@ -32,7 +32,7 @@
 **texto**
 ```
 #### Resultado:
-**texto**
+#### **texto**
 ---
 ### **Italic - Itálico**
 #### Para se colocar em itálico, coloque a sentença entre inderline (_) sem espaço nenhum.  
@@ -41,7 +41,7 @@
 _texto_
 ```
 #### Resulatdo:
-_texto_
+#### _texto_
 ---
 ### **Lista Ordernada**
 #### Para se criar uma lista ordernada, digite um número e logo em seguida um ponto(.), que ao decorrer de seu arquivo, a lista será criada automaticamente. 
