@@ -102,6 +102,16 @@ _texto_
 ---
 ### **Código** **em** **bloco**
 #### Para escrever um bloco de código use três cases e logo dos três primeiros cases, coloque a linguagem em que se encontra o código.
+#### Código: 
+#### ```Java script
+#### if(n >1){
+#### document.write("Positivo");
+#### } 
+#### else{
+#### document.write("Negativo");
+#### }
+#### ```
+#### Resultado:
  ```javascript
  if(n >1){
      document.write("Positivo");
