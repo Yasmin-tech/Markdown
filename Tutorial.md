@@ -125,7 +125,7 @@ _texto_
 ### **Tabelas**
 #### Para a criação de tabelas, use o pipe (|), para dar forma a sua tabela e use |-| para separar o cabeçalho e o corpo da tabela.
 #### Código: 
-```Markdown
+```Markodown
  | Nome | Idade |
  | - || - |
  | Yasmin | 18 |
@@ -147,7 +147,7 @@ _texto_
 
 ---
 ### **Inserindo imagens**
-#### O código para se inserir imagem é bem parecido com o do inserir link, a única diferença é o ponto de exclamação (!) no início. Também é precico colocar o endereço da imagem entre parênteses.
+#### O código para se inserir imagem é bem parecido com o do inserir link, a única diferença é o ponto de exclamação (!) no início e os colchetes não precisam de preenchimento. Também é precico colocar o endereço da imagem entre parênteses.
 #### Código:
 ```markdown
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ116J-Ewb6FmilXc5zyLYP5oIhptdEKW8blCese_UKGFt1AvX1m_04xdmMbeGUW-NDl-I&usqp=CAU)
